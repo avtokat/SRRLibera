@@ -1,6 +1,7 @@
 # SRRLibera
 
-A free-as-in-freedom compatibility layer for playing campaigns made in Harebrained Schemes' Shadowrun series, using the Godot game engine. Does not currently exist - this page is a placeholder and a form of motivation.
+A free-as-in-freedom compatibility layer for playing campaigns made in Harebrained Schemes' Shadowrun series, using the Godot game engine. Does not currently exist - this page is a placeholder and a form of motivation. 
+THIS IS A PUBLIC MIRROR. ACTIVE DEVELOPMENT MOVED TO [CODEBERG](https://codeberg.org/falinvoting/SRRLibera) 
 
 TODO:
 ---------------
